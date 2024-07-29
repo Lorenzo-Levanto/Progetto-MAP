@@ -1,4 +1,5 @@
-ESAME SU KNN 
+ESAME SU KNN
+
 Dato: 
 training set (X, Y) 
 esempio x, definito query, il cui valore y sia sconosciuto 
